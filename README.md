@@ -23,6 +23,6 @@ O método GGNN disponível neste algoritmo é o método original do SR-GNN, que 
 A descrição dos datasets podem ser encontradas em:
 yoochoose: http://2015.recsyschallenge.com/challenge.html
 diginetica: https://www.cikm2020.org/
-aotm: https://www.ee.columbia.edu/ dpwe/research/ musicsim/aotm.html
+aotm: https://www.ee.columbia.edu/dpwe/research/musicsim/aotm.html
 30music: https://www.semanticscholar.org/paper/30Music-Listening-and-Playlists-DatasetTurrin-Quadrana/b6bb738a5fab294e9b4c8b6d152be32c7f01d154
 
