@@ -1,7 +1,7 @@
 # SRGNN-GraphSage
 Adaptação do método SR-GNN com a técnica GraphSage. 
 Neste trabalho é realizado a adaptação do método SR-GNN com a técnica GraphSage, também utilizamos diferentes agregadores: Mean, Max e LSTM.
-Este algoritmo é utilizado na dissertação: Sistemas de Recomendação Sequencial Baseados em Abordagens de Graph Neural Network. Desenvolvida na Universidade Federal do Paraná (UFPR). (A dissertação será disponibilizada após a finalização do mestrado).
+Este algoritmo é utilizado na dissertação: Sistemas de Recomendação Sequencial Baseados em Abordagens de Graph Neural Network. Desenvolvida na Universidade Federal do Paraná (UFPR). A dissertação pode ser encontrada em: https://acervodigital.ufpr.br/handle/1884/77815.
 
 Referências para o desenvolvimento deste algoritmo:
 SR-GNN: Session-based Recommendation with Graph Neural Networks.
@@ -19,3 +19,10 @@ Algoritmo base para o agregador Max disponível em: https://towardsdatascience.c
 Algoritmo base para o agregador LSTM disponível em: https://pytorch.org/tutorials/beginner/nlp/sequence_models_tutorial.html
 
 O método GGNN disponível neste algoritmo é o método original do SR-GNN, que foi mantido para comparação com os demais agregadores.
+
+A descrição dos datasets podem ser encontradas em:
+yoochoose: http://2015.recsyschallenge.com/challenge.html
+diginetica: https://www.cikm2020.org/
+aotm: https://www.ee.columbia.edu/ dpwe/research/ musicsim/aotm.html
+30music: https://www.semanticscholar.org/paper/30Music-Listening-and-Playlists-DatasetTurrin-Quadrana/b6bb738a5fab294e9b4c8b6d152be32c7f01d154
+
