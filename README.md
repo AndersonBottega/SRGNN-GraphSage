@@ -3,6 +3,8 @@ Adaptação do método SR-GNN com a técnica GraphSage.
 Neste trabalho é realizado a adaptação do método SR-GNN com a técnica GraphSage, também utilizamos diferentes agregadores: Mean, Max e LSTM.
 Este algoritmo é utilizado na dissertação: Sistemas de Recomendação Sequencial Baseados em Abordagens de Graph Neural Network. Desenvolvida na Universidade Federal do Paraná (UFPR). A dissertação pode ser encontrada em: https://acervodigital.ufpr.br/handle/1884/77815.
 
+Este algoritmo também é o mesmo referênciado no artigo: A Sequential Recommender System with Embeddings Based on GraphSage Aggregators. O artigo pode ser encontrado em: https://link.springer.com/chapter/10.1007/978-3-031-21689-3_1.
+
 Referências para o desenvolvimento deste algoritmo:
 SR-GNN: Session-based Recommendation with Graph Neural Networks.
 Wu, S., Tang, Y., Zhu, Y., Wang, L., Xie, X. e Tan, T. (2019). Session-based recommendation with graph neural networks. Proceedings of the AAAI Conference on Artificial Intelligence, 33(01):346–353.
